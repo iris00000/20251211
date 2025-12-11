@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jmix-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>123</dc:creator>
+    <dc:title>&amp;#x4E94;&amp;#x8A00;&amp;#x7D55;&amp;#x53E5;</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>7</version>
+
+<data>
+<title>&amp;#x4E94;&amp;#x8A00;&amp;#x7D55;&amp;#x53E5;</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>1</include-reading>
+<reading-title>123</reading-title>
+<reading-text>&amp;#x003C;iframe src=&quot;https://www.treasurebowl.ches.tp.edu.tw/100plan/ches-poetry/poem102-2.html&quot; width=&quot;1090&quot; height=&quot;645&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot; allow=&quot;geolocation *; microphone *; camera *; midi *; encrypted-media *&quot; title=&quot;Dialog Cards&quot;&amp;#x003E;&amp;#x003C;/iframe&amp;#x003E;&amp;#x003C;script src=&quot;https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js&quot; charset=&quot;UTF-8&quot;&amp;#x003E;&amp;#x003C;/script&amp;#x003E;</reading-text>
+
+</reading>
+
+<jumbled-order-exercise><main-order><segment>&amp;#x767D;&amp;#x65E5;&amp;#x4F9D;&amp;#x5C71;&amp;#x76E1;</segment>
+<segment>&amp;#x9EC3;&amp;#x6CB3;&amp;#x5165;&amp;#x6D77;&amp;#x6D41;</segment>
+<segment>&amp;#x6B32;&amp;#x7AAE;&amp;#x5343;&amp;#x91CC;&amp;#x76EE;</segment>
+<segment>&amp;#x66F4;&amp;#x4E0A;&amp;#x4E00;&amp;#x5C64;&amp;#x6A13;</segment>
+</main-order></jumbled-order-exercise>
+</data>
+
+<hotpot-config-file>
+<jmix>
+<exercise-subtitle>&amp;#x62D6;&amp;#x66F3;&amp;#x6392;&amp;#x5E8F;</exercise-subtitle>
+<instructions>&amp;#x62D6;&amp;#x66F3;&amp;#x6392;&amp;#x5E8F;&amp;#x6B63;&amp;#x78BA;&amp;#x9806;&amp;#x5E8F;&amp;#x7B54;&amp;#x6848;</instructions>
+<guess-correct>&amp;#x6B63;&amp;#x78BA;!</guess-correct>
+<guess-incorrect>&amp;#x518D;&amp;#x8A66;&amp;#x4E00;&amp;#x6B21;</guess-incorrect>
+<this-much-correct>This much of your answer is correct:</this-much-correct>
+<next-correct-part>The next correct part is: </next-correct-part>
+<click-to-add>Click on words to add them to the sentence.</click-to-add>
+<also-correct>These answers are also correct:</also-correct>
+<include-undo>1</include-undo>
+<include-restart>1</include-restart>
+<include-hint>1</include-hint>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<capitalize-first-letter>0</capitalize-first-letter>
+<separate-javascript-file>0</separate-javascript-file>
+</jmix>
+
+<global>
+
+<times-up>Your time is over!</times-up>
+<check-caption>Check</check-caption>
+<ok-caption>OK</ok-caption>
+<undo-caption>Undo</undo-caption>
+<hint-caption>Hint</hint-caption>
+<restart-caption>Restart</restart-caption>
+<your-score-is>Your score is </your-score-is>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<contents-caption>Index</contents-caption>
+<include-next-ex>1</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>contents.htm</contents-url>
+<contents-url>contents.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Geneva,Arial,sans-serif</font-face>
+<font-size>medium</font-size>
+<page-bg-color>#C0C0C0</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#000000</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+</global>
+</hotpot-config-file>
+</hotpot-jmix-file>
